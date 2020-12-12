@@ -1,0 +1,85 @@
+Using the Python Interpreter 5
+21 Invoking the Interpreter                                        5
+22 The Interpreter and Its Environment                                6
+3 An Informal Introduction to Python 9
+31 Using Python as a Calculator                                     9
+32 First Steps Towards Programming                                  16
+4 More Control Flow Tools 19
+41 if Statements                                             19
+42 for Statements                                             19
+43 The range() Function                                        20
+44 break and continue Statements, and else Clauses on Loops                   21
+45 pass Statements                                            22
+46 Defining Functions                                           22
+47 More on Defining Functions                                      24
+48 Intermezzo: Coding Style                                       29
+5 Data Structures 31
+51 More on Lists                                             31
+52 The del statement                                           35
+53 Tuples and Sequences                                         36
+54 Sets                                                   37
+55 Dictionaries                                               38
+56 Looping Techniques                                          39
+57 More on Conditions                                          40
+58 Comparing Sequences and Other Types                               40
+6 Modules 43
+61 More on Modules                                           44
+62 Standard Modules                                           46
+63 The dir() Function                                          47
+64 Packages                                                48
+7 Input and Output 53
+71 Fancier Output Formatting                                      53
+72 Reading and Writing Files                                      57
+8 Errors and Exceptions 61
+i
+81 Syntax Errors                                             61
+82 Exceptions                                               61
+83 Handling Exceptions                                          62
+84 Raising Exceptions                                           64
+85 User-defined Exceptions                                        65
+86 Defining Clean-up Actions                                      66
+87 Predefined Clean-up Actions                                     66
+9 Classes 69
+91 A Word About Names and Objects                                 69
+92 Python Scopes and Namespaces                                   69
+93 A First Look at Classes                                        72
+94 Random Remarks                                           75
+95 Inheritance                                               77
+96 Private Variables                                            78
+97 Odds and Ends                                             79
+98 Iterators                                                79
+99 Generators                                               80
+910 Generator Expressions                                         81
+10 Brief Tour of the Standard Library 83
+101 Operating System Interface                                      83
+102 File Wildcards                                             83
+103 Command Line Arguments                                      84
+104 Error Output Redirection and Program Termination                        84
+105 String Pattern Matching                                       84
+106 Mathematics                                              84
+107 Internet Access                                             85
+108 Dates and Times                                            85
+109 Data Compression                                           86
+1010 Performance Measurement                                      86
+1011 Quality Control                                            87
+1012 Batteries Included                                           87
+11 Brief Tour of the Standard Library — Part II 89
+111 Output Formatting                                          89
+112 Templating                                               90
+113 Working with Binary Data Record Layouts                             91
+114 Multi-threading                                            91
+115 Logging                                                 92
+116 Weak References                                            93
+117 Tools for Working with Lists                                     93
+118 Decimal Floating Point Arithmetic                                  94
+12 Virtual Environments and Packages 97
+121 Introduction                                              97
+122 Creating Virtual Environments                                    97
+123 Managing Packages with pip                                     98
+13 What Now? 101
+14 Interactive Input Editing and History Substitution 103
+141 Tab Completion and History Editing                                103
+142 Alternatives to the Interactive Interpreter                              103
+ii
+15 Floating Point Arithmetic: Issues and Limitations 105
+151 Representation Error                                         108
