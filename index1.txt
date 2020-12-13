@@ -1,18 +1,18 @@
 Using the Python Interpreter 5
-21 Invoking the Interpreter                                        5
-22 The Interpreter and Its Environment                                6
+21 Invoking the Interpreter                                        
+22 The Interpreter and Its Environment                                
 3 An Informal Introduction to Python 9
-31 Using Python as a Calculator                                     9
-32 First Steps Towards Programming                                  16
-4 More Control Flow Tools 19
-41 if Statements                                             19
-42 for Statements                                             19
-43 The range() Function                                        20
-44 break and continue Statements, and else Clauses on Loops                   21
-45 pass Statements                                            22
-46 Defining Functions                                           22
-47 More on Defining Functions                                      24
-48 Intermezzo: Coding Style                                       29
+31 Using Python as a Calculator                                     
+32 First Steps Towards Programming                                 
+4 More Control Flow Tools 
+  41 if Statements                                             
+  42 for Statements                                             
+  43 The range() Function                                        20
+  44 break and continue Statements, and else Clauses on Loops                   21
+  45 pass Statements                                            22
+  46 Defining Functions                                           22
+  47 More on Defining Functions                                      24
+  48 Intermezzo: Coding Style                                       29
 5 Data Structures 31
 51 More on Lists                                             31
 52 The del statement                                           35
